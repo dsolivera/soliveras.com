@@ -12,6 +12,7 @@ tagline:             'Notes, TBH'
 url:                 http://soliveras.com
 paginate:            1
 baseurl:             /
+highlighter:      rouge
 author:
   name:              Oliver Sumo
   url:               https://soliveras.com
