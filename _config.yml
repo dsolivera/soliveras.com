@@ -1,21 +1,27 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:            kramdown
+highlighter:         true
+gems:                [jekyll-paginate, jekyll-seo-tag]
 
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Permalinks
+permalink:           none
 
-# Build settings
-markdown: kramdown
+# Setup
+title:               code.Oliver
+tagline:             'Notes, TBH'
+url:                 http://soliveras.com
+paginate:            1
+baseurl:             /
+author:
+  name:              Oliver Sumo
+  url:               https://soliveras.com
+  email:             solivera2g3@gmail.com
+  twitter:           solivera2g3
+
+# Custom vars
+github:
+  repo:              https://github.com/dsolivera/dsolivera.github.io.git
+
+personal_links:
+  twitter:           https://twitter.com/solivera2g3
+
