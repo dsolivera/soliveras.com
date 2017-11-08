@@ -1,6 +1,6 @@
 var greetingLine1 = "a Software developer who loves solving problems and learning continuously;";
 var greetingLine2 = "an Alumni of the University of California, San Diego.";
-var greetingLine3 = "";
+var greetingLine3 = "I am a tech guy who loves cars and just tinkering in general.";
 
 
 $(document).ready(function() {
