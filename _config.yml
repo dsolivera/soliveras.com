@@ -23,7 +23,7 @@ author:
 
 # Custom vars
 github:
-  repo:           https://github.com/dsolivera/dsolivera.github.io.git
+  repo:           https://github.com/dsolivera/soliveras.com.git
 blog_masthead_pages:       
   About:          '/about'
   Projects:       '/projects'
